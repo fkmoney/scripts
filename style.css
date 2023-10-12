@@ -1,0 +1,16 @@
+*,*::after,*::before {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(45deg, #eec267, #f25bc3);
+}
+
+.img{
+    height: 18rem;
+    border-radius: 5px 5px 100px 100px;
+}
+
+
